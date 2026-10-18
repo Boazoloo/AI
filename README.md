@@ -1,0 +1,2 @@
+# AI
+AI lab assignments
